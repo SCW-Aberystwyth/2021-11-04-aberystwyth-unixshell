@@ -4,6 +4,5 @@
 {% endunless %}
 
 {% include install_instructions/shell.html %}
-{% include install_instructions/git.html %}
 {% include install_instructions/editor.html %}
 
